@@ -1,6 +1,6 @@
 # Altimateguide Agent MCP Server
 
-[![smithery badge](https://smithery.ai/badge/imharikumaran/altimateguide)](https://smithery.ai/servers/imharikumaran/altimateguide)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.imharikumaran/altimateguide)](https://lightnow.ai/servers/io.github.imharikumaran/altimateguide)
 
 A small MCP server that lets an AI agent submit a tool to the
 [Altimateguide](https://altimateguide.com) directory for editorial review — and,
